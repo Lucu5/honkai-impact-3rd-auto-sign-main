@@ -1,5 +1,5 @@
 # 崩鐵論壇自動簽到 Chrome Extension
-修改自(https://github.com/oddstab/genshin-impact-auto-sign)
+修改自(https://github.com/Nasiko/honkai-impact-3rd-auto-sign)
 
 ## 功能說明
 自動簽到，省去每天還要簽到的麻煩  
